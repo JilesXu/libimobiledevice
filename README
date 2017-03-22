@@ -1,3 +1,14 @@
+### 更新点
+- 1.只下载 .ips格式的crash文件,其他类型的文件不下载
+- 2.增加-g || --grep参数 可以过滤crash文件名称下载文件。
+例子：
+```
+MACdeMacBook-Pro:log MAC$ idevicecrashreport -k -g TuNiuApp .
+Copy: /TuNiuApp-2017-03-21-184033.ips
+Done.
+MACdeMacBook-Pro:log MAC$ 
+```
+
 About
 =====
 
