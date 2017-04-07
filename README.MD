@@ -1,4 +1,6 @@
 ### 更新点
+idevicecrashreport
+
 - 1.只下载 .ips格式的crash文件,其他类型的文件不下载
 - 2.增加-g || --grep参数 可以过滤crash文件名称下载文件。
 例子：
