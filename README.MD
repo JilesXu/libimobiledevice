@@ -21,11 +21,13 @@ Requirements
 ============
 
 Development Packages of:
+
 	libgnutls or openssl
 	libplist
 	libusbmuxd
 
 Software:
+
 	usbmuxd
 	make
 	autoheader
@@ -36,6 +38,7 @@ Software:
 	gcc
 
 Optional:
+
 	cython (Python bindings)
 	doxygen (Documentation)
 
@@ -43,6 +46,7 @@ Installation
 ============
 
 To compile run:
+
 	./autogen.sh
 	make
 	sudo make install
@@ -51,24 +55,31 @@ Who/What/Where?
 ===============
 
 Home:
+
 	http://www.libimobiledevice.org/
 
 Code:
+
 	git clone http://git.libimobiledevice.org/libimobiledevice.git
 
 Code (Mirror):
+
 	git clone https://github.com/libimobiledevice/libimobiledevice.git
 
 Tickets:
+
 	http://github.com/libimobiledevice/libimobiledevice/issues
 
 Mailing List:
+
 	http://lists.libimobiledevice.org/mailman/listinfo/libimobiledevice-devel
 
 IRC:
+
 	irc://irc.freenode.net#libimobiledevice
 
 Twitter:
+
 	https://twitter.com/libimobiledev
 
 Credits
